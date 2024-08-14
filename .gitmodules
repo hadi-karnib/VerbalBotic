@@ -1,0 +1,6 @@
+[submodule "VerbalBotic-back"]
+	path = VerbalBotic-back
+	url = https://github.com/hadi-karnib/VerbalBotic-back.git
+[submodule "VerbalBotic-front"]
+	path = VerbalBotic-front
+	url = https://github.com/hadi-karnib/VerbalBotic-front.git
