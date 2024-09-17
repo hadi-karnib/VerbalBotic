@@ -39,9 +39,9 @@
 
 ### Mockups
 
-| Home screen                             | Chat Screen                           | Children Screen                       |
-| --------------------------------------- | ------------------------------------- | ------------------------------------- |
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| Home Screen | Chat Screen |
+
+| ![Landing](./readme/demo/homeMockup.png) | ![fsdaf](./readme/demo/chatsMockups.png) |
 
 <br><br>
 
