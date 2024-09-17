@@ -128,7 +128,14 @@ _Below is an example of how you can instruct your audience on installing and set
    PORT = "ENTER the port to which you will run your backend";
    ```
 
-4. Install NPM packages
+4. Enter your ip in `.env file` in the frontend
+
+   ```js
+   API_URL=http://yourIp:yourBackendPort
+   ML_URL=http://yourIp:yourMLPort
+   ```
+
+5. Install NPM packages
 
    ```sh
       cd VerbalBotic-back
@@ -144,13 +151,5 @@ _Below is an example of how you can instruct your audience on installing and set
       npm i
       npx expo start --clear
    ```
-
-5. Enter your ip in `.env file` in the frontend
-
-
-    ```js
-    API_URL=http://yourIp:yourBackendPort
-    ML_URL=http://yourIp:yourMLPort
-    ```
 
 Now, you should be able to run VerbalBotic locally and explore its features.
