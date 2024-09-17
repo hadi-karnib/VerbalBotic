@@ -57,9 +57,9 @@
 
 ### User Screens (Mobile)
 
-| Login screen                              | Register screen                         | Landing screen                          | Loading screen                          |
-| ----------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
-| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
+| Login screen                            | Register screen                         | Landing screen                          | Loading screen                          |
+| --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
+| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
 
 ### Admin Screens (Web)
 
