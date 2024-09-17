@@ -116,7 +116,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Get an API Key at [ChatGpt](https://openai.com)
 2. Clone the repo
-   git clone [github](https://github.com/your_username_/Project-Name.git)
+   git clone [github](https://github.com/hadi-karnib/VerbalBotic.git)
 3. Install NPM packages
    ```sh
    npm install
