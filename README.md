@@ -99,7 +99,7 @@
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
 
-> To set up Coffee Express locally, follow these steps:
+> To set up VerbalBotic locally, follow these steps:
 
 ### Prerequisites
 
@@ -114,7 +114,7 @@ This is an example of how to list things you need to use the software and how to
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [example](https://example.com)
+1. Get an API Key at [ChatGpt](https://openai.com)
 2. Clone the repo
    git clone [github](https://github.com/your_username_/Project-Name.git)
 3. Install NPM packages
