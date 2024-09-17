@@ -13,6 +13,8 @@
 
 - As a user, I want to assess my speech capabilities through the app, so I can understand my areas of improvement.
 - As a user, I want to track my progress over time, so I can see how much I have improved and stay motivated.
+- As a parent, I want to track my child's progress over time, so I can see how much they have improved and check their daily homework.
+- As a parent, I want to be able to take advice directly from an ai to know how to handle and interact with my child's illness.
 
 <!-- Tech stack -->
 <img src="./readme/title3.svg"/>
