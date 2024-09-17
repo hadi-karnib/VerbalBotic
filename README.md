@@ -63,9 +63,9 @@
 
 ### Admin Screens (Mobile)
 
-| Home screen                              | Register screen                       | Landing screen                        |
+| Home screen                              | Children screen                       | Landing screen                        |
 | ---------------------------------------- | ------------------------------------- | ------------------------------------- |
-| ![Landing](./readme/demo/adminHome.jpeg) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| ![Landing](./readme/demo/adminHome.jpeg) | ![fsdaf](./readme/demo/children.jpeg) | ![fsdaf](./readme/demo/1440x1024.png) |
 
 <br><br>
 
