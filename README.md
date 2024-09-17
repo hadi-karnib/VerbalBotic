@@ -117,22 +117,40 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Get an API Key at [ChatGpt](https://openai.com)
 2. Clone the repo
    git clone [github](https://github.com/hadi-karnib/VerbalBotic.git)
-3. Install NPM packages
+3. Enter your API in `.env file` in the backend
 
-   ```cd VerbalBotic-back
+   ```js
+   CHATGPT_API = "ENTER YOUR API";
+   GOOGLE_API = "ENTER YOUR google api";
+   CHAT_MODEL = "ENTER YOUR desired chatgpt model";
+   JWT_SECRET = "ENTER YOUR secret";
+   MONGO_URI = "ENTER YOUR mongoURI";
+   PORT = "ENTER the port to which you will run your backend";
+   ```
+
+4. Install NPM packages
+
+   ```sh
+      cd VerbalBotic-back
+      cd Backend
       npm i
-      npm run dev # to run the backend
-      #new terminal
+      npm run dev # to run the backend ,port is declared in the .env
+      # new terminal
+      cd VerbalBotic-back
+      cd ML
+      uvicorn app:app --host 0.0.0.0 --port "desired port"
+      # new terminal
       cd VerbalBotic-front
       npm i
       npx expo start --clear
-
-
    ```
 
-4. Enter your API in `.env file` in the backend
-   ```js
-   const API_KEY = "ENTER YOUR API";
-   ```
+5. Enter your ip in `.env file` in the frontend
+
+
+    ```js
+    API_URL=http://yourIp:yourBackendPort
+    ML_URL=http://yourIp:yourMLPort
+    ```
 
 Now, you should be able to run VerbalBotic locally and explore its features.
