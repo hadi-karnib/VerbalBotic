@@ -118,9 +118,18 @@ _Below is an example of how you can instruct your audience on installing and set
 2. Clone the repo
    git clone [github](https://github.com/hadi-karnib/VerbalBotic.git)
 3. Install NPM packages
-   ```sh
-   npm install
+
+   ```cd VerbalBotic-back
+      npm i
+      npm run dev # to run the backend
+      #new terminal
+      cd VerbalBotic-front
+      npm i
+      npx expo start --clear
+
+
    ```
+
 4. Enter your API in `.env file` in the backend
    ```js
    const API_KEY = "ENTER YOUR API";
