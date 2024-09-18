@@ -59,8 +59,8 @@
 
 ### User Screens (Mobile)
 
-| Login screen                         | Register screen                       | Home screen                             | screen |
-| ------------------------------------ | ------------------------------------- | --------------------------------------- | ------ |
+| Login screen                         | Register screen                       | Chats screen                            |
+| ------------------------------------ | ------------------------------------- | --------------------------------------- |
 | ![Landing](./readme/demo/Login.jpeg) | ![fsdaf](./readme/demo/register.jpeg) | ![fsdaf](./readme/demo/childChats.jpeg) |
 
 ### Admin Screens (Mobile)
