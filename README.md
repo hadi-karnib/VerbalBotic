@@ -50,8 +50,7 @@
 
 ### Architecting Data Excellence: Innovative Database Design Strategies:
 
-- Insert ER Diagram here
-
+![erDiagram](./readme/demo/erDiagram.png)
 <br><br>
 
 <!-- Implementation -->
