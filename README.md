@@ -13,6 +13,9 @@
 
 - As a user, I want to assess my speech capabilities through the app, so I can understand my areas of improvement.
 - As a user, I want to track my progress over time, so I can see how much I have improved and stay motivated.
+
+### Parent Stories
+
 - As a parent, I want to track my child's progress over time, so I can see how much they have improved and check their daily homework.
 - As a parent, I want to be able to take advice directly from an ai to know how to handle and interact with my child's illness.
 
@@ -76,6 +79,7 @@
 ### Mastering AI Interaction: Unveiling the Power of Prompt Engineering:
 
 - This project uses advanced prompt engineering techniques to optimize the interaction with natural language processing models. By skillfully crafting input instructions, we tailor the behavior of the models to achieve precise and efficient language understanding and generation for various tasks and preferences.
+  ![Landing](./readme/demo/prompt.png)
 
 <br><br>
 
@@ -86,6 +90,8 @@
 
 - This project leverages AWS deployment strategies to seamlessly integrate and deploy natural language processing models. With a focus on scalability, reliability, and performance, we ensure that AI applications powered by these models deliver robust and responsive solutions for diverse use cases.
 
+![Landing](./readme/demo/awsDeployment.png)
+
 <br><br>
 
 <!-- Unit Testing -->
@@ -94,6 +100,7 @@
 ### Precision in Development: Harnessing the Power of Unit Testing:
 
 - This project employs rigorous unit testing methodologies to ensure the reliability and accuracy of code components. By systematically evaluating individual units of the software, we guarantee a robust foundation, identifying and addressing potential issues early in the development process.
+  ![Landing](./readme/demo/unitTesting.png)
 
 <br><br>
 
