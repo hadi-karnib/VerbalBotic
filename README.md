@@ -9,16 +9,16 @@
 >
 > VerbalBotic aims to transform the traditional speech therapy experience by providing a user-friendly platform that adapts to each user's unique needs. We are dedicated to empowering our users by enhancing their ability to communicate more effectively, focusing on convenience, personalization, and measurable progress to ensure user satisfaction.
 
-### User Stories
+### User
 
 - As a user, I want to assess my speech capabilities through the app, so I can understand my areas of improvement.
 - As a user, I want to track my progress over time, so I can see how much I have improved and stay motivated.
-
-### Parent Stories
+- As a user, I want to be able to fix my speech according to different languages.
+### Parent
 
 - As a parent, I want to track my child's progress over time, so I can see how much they have improved and check their daily homework.
 - As a parent, I want to be able to take advice directly from an ai to know how to handle and interact with my child's illness.
-
+- As a parent, I want to be able to add my children in an easy and safe way.
 <!-- Tech stack -->
 <img src="./readme/title3.svg"/>
 
