@@ -43,9 +43,9 @@
 
 ### Mockups
 
-| Home Screen | Chat Screen |
-
-| ![Landing](./readme/demo/homeMockup.png) | ![fsdaf](./readme/demo/chatsMockups.png) |
+| Home Screen                                  | Chat Screen                                    |
+| -------------------------------------------- | ---------------------------------------------- |
+| ![Home Screen](./readme/demo/homeMockup.png) | ![Chat Screen](./readme/demo/chatsMockups.png) |
 
 <br><br>
 
