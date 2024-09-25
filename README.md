@@ -91,6 +91,7 @@
 - This project leverages AWS deployment strategies to seamlessly integrate and deploy natural language processing models. With a focus on scalability, reliability, and performance, we ensure that AI applications powered by these models deliver robust and responsive solutions for diverse use cases.
 
 ![Landing](./readme/demo/awsDeployment.png)
+![Landing](./readme/demo/postmanGif.gif)
 
 <br><br>
 
